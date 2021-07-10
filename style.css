@@ -1,0 +1,51 @@
+
+/*reset default css */
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/*reset default css */
+
+/*    navb bar starts  */
+nav{
+    width: 100%;
+    height: 75px;
+    background-color: gray;
+    color: #ffffff;
+    display: flex;
+    padding: 0 25px;
+}
+
+.brand{
+    color: #ffffff;
+    text-decoration: none;
+    font-size: 25px;
+    line-height:75px;
+}
+
+.nav{
+    list-style: none;
+    display: flex;
+    margin-left: auto;
+}
+
+.nav > li{
+    margin: 0 10px;
+}
+.nav > li > a{
+    text-decoration: none;
+    color: #ffffff;
+    line-height: 75px;
+}
+
+/*    navb bar end  */
+
+.main-image img{
+   
+    width: 600px;
+    height: 600px;
+    image-
+    
+}

@@ -1,0 +1,127 @@
+*{
+	margin:0;
+	padding: 0;
+	font-family: bebas;
+}
+.header{
+	width: 100%;
+	margin:auto;
+	overflow: hidden;
+	padding: 16px 0px;
+	
+}
+.header div{
+	width: 25%;
+	float: left;
+	overflow: hidden;
+}
+.header a{
+	color: green;
+	text-decoration: none;
+}
+
+.logo h2{
+	padding: 5px 80px;
+	transition: .5s ease all;
+}
+.logo h2:hover{
+	font-size: 28px;
+	color: #1B9CE3;
+}
+.cta a{
+	background:#1B9CE3;
+	color: #fff;
+	display: inline-block;
+	overflow: hidden;
+	padding:10px 46px;
+	border-radius: 20px;
+	border: 1px solid #1B9CE3;
+	transition: .5s ease all; 
+}
+.cta a:hover{
+	background: #fff;
+	color: #1B9CE3;
+	
+}
+.email_contact i{
+	color: #1B9CE3;
+	padding: 13px 35px;
+}
+.email_contact i:hover{
+	color: #A22;
+}
+
+.mobile_contact i{
+	color: #1B9CE3;
+	padding: 13px 35px;
+
+}
+.mobile_contact i:hover{
+	color: #A22;
+}
+	
+.parent_menu{
+	width: 100%;
+	overflow: hidden;
+	background: #0D1128;
+}
+.menu{
+	width: 70%;
+	margin: auto;
+	overflow: hidden;
+}
+.menu ul{
+	float: left;
+	
+}
+.menu ul li{
+	overflow: hidden;
+	float: left;
+	padding: 15px 21px;
+	text-align: left;
+}
+.menu ul li a{
+	color: rgb(19, 176, 204);
+	text-decoration: none;
+	font-size: 18px;
+	padding: 5px 10px;
+	border-radius:5px;
+	transition: .6s ease all;
+}
+.menu ul li a:hover{
+	color: #fff;
+	background: #1C9DE3;
+	transition: .6s ease all;
+}
+.search{
+	padding: 12px;
+	overflow: hidden;
+	float: right;
+}
+.search form input{
+	padding: 3px;
+	
+	
+
+	
+}
+
+.image img{
+	width: 100%;
+	background-size: cover;
+	height: 660px;
+} 
+
+footer{
+	background-color: #0D1128;
+	height: 200px;
+	margin-top: 500px;
+}
+
+.footer{
+	color:#fff;
+}
+.footer h5{
+	padding-top: 100px;
+	text-align: center;
+}
